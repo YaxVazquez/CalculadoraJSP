@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9/10/2016, 05:58:02 PM
+    Author     : Yax
+*/
+body  {
+    background-image: url("fondo.gif");
+}
+h2{
+    color:#B669F7;
+    font-family: monospace;
+    font-size: 30px;
+}
+.hii{
+    color:#69F7E4;
+    font-family: monospace;
+    font-size: 20px;  
+}
+.ser{
+    color: white;
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    font-family: monospace;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+}
+.coll{
+    position: absolute;
+    top: 70px;
+    left: 15px;
+    width: 480px;
+    height: 80px;
+    background-color: black;
+}
+
+
